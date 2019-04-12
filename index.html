@@ -12,10 +12,11 @@
   <body>
     <div id="TEI"></div>
     <script>
-   var CETEIcean = new CETEI()
-   CETEIcean.getHTML5("data/Barcelona.xml", function(data) {
-       document.getElementById("TEI").appendChild(data)
-   })
-</script>
+      var CETEIcean = new CETEI()
+      CETEIcean.getHTML5("data/Barcelona.xml", function(data) {
+      document.getElementById("TEI").appendChild(data)
+      })
+    </script>
+    <p style="font-family: Arvo">(powered by &#x1F433; CETEIcean)</p>
   </body>
 </html>
