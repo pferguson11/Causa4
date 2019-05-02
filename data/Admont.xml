@@ -9,7 +9,7 @@
       <titleStmt>
         <title>Decretum Gratiani</title>
         <author>Gratian, active 12th century</author>
-        <editor>Paul Evans</editor>
+        <editor>Paige Ferguson</editor>
       </titleStmt>
       <publicationStmt>
         <publisher>Stephan Kuttner Institute</publisher>
@@ -72,15 +72,15 @@
               <head>(C.4 d.init)</head>
               <ab>Quidam. in. ex.Co[m]municatione [con]stitutus. ep[iscopu]m accusare disponit.
               adolescente[m] infra .xiiii. annu[m] etatis sue ad assertione[m] sue cause
-              adducit. P[ro]hibit[us] ab accusatio[n]e adolescente[m] accusatore[m] & se
-              teste[m] facit. adolescens p[er]sona[m] accusatoris & testis gerere cupit. die
+              adducit. P[ro]hibit[us] ab accusatio[n]e adolescente[m] accusatore[m] &amp; se
+              teste[m] facit. adolescens p[er]sona[m] accusatoris &amp; testis gerere cupit. die
               statuta ad iudiciu[m] elector[um] iudicu[m] ep[is]c[opus] minime [con]currit. a
               co[m]munione suspendit[ur]. tande[m] renouato iudicio accusator culpabilis in
               accusatione inuenit[ur]. demu[m] ad assertione[m] p[ro]p[ri]e cause p[ro]cedit.
               Hic p[ri]mu[m] q[u]erit[ur] an in exco[m]municatione [con]stitutus aliu[m]
               accusare ualeat .ii. an infra .xiiii. annu[m] in c[ri]minali causa testari
               q[ui]s possit .iii. utru[m] ab accusatione p[ro]hibit[us] p[er]sona[m]
-              testificantis possit assum[er]e .iiii. an ide[m] possit e[ss]e accusatir &
+              testificantis possit assum[er]e .iiii. an ide[m] possit e[ss]e accusatir &amp;
               testis .v. an die [con]stituta n[on] occ[u]rens .a co[m]munione sit remouend[us]
               .vi. si in e[pisco]por[um] iudicio accusatoris p[er]sona culpabilis inuenta
               fu[er]it. an ad assertione[m] p[ro]p[ri]e cause decet[er]o sit admittenda.</ab>
@@ -113,13 +113,13 @@
               <head>(C.4 q.2-3)</head>
               <div type="textpart" subtype="dictum" n="C.4 q.2-3 d.a.c.1">
                 <head>(C.4 q.2-3 d.a.c.1)</head>
-                <ab>S[e]c[un]da aut[em] & t[er]cia q[u]estio eode[m] [con]cilio
+                <ab>S[e]c[un]da aut[em] &amp; t[er]cia q[u]estio eode[m] [con]cilio
                 uno eode[m]q[ue] cap[itu]lo t[er]minant[ur]. Illud uero e[st] hui[us]m[od]i.</ab>
               </div>
               <div type="section" subtype="chapter" n="C.4 q.2-3 c.1">
                 <head>(C.4 q.2-3 c.1)</head>
                 <div type="textpart" subtype="rubric">
-                  <ab>Qui ab accusatione repellunt[ur]. & ad annu[m] .xiiii. n[on]du[m]
+                  <ab>Qui ab accusatione repellunt[ur]. &amp; ad annu[m] .xiiii. n[on]du[m]
                   p[er]uenerunt testes e[ss]e n[on] possunt. </ab>
                 </div>
                 <div type="textpart" subtype="canon">
@@ -148,9 +148,9 @@
                   <ab>Accusator testis(errasure from testes) [ue]l iudex aliquis simul e[ss]e non potest.</ab>
                 </div>
                 <div type="textpart" subtype="canon">
-                  <ab>Nullus umqua[m] p[re]sumat accusator simul e[ss]e & iudex uel (errasure from “&”)
+                  <ab>Nullus umqua[m] p[re]sumat accusator simul e[ss]e &amp; iudex uel (erasure from “&amp;”)
                   testis. quo[niam] in om[n]i iudicio .iiii. p[er]sonas semp[er] necesse e[st]
-                  e[ss]e. id e[st] iudices electos & accusatores, [interlinear: idoneos] ac
+                  e[ss]e. id e[st] iudices electos &amp; accusatores, [interlinear: idoneos] ac
                   defensores, [interlinear: [con]gruos] atq[ue] testes [interlinear: legitimos].</ab>
                 </div>
               </div>
@@ -163,12 +163,12 @@
                   <ab>Quilibet in causa duas p[er]sonas gerere non ualet.</ab>
                 </div>
                 <div type="textpart" subtype="canon">
-                  <ab>Nullus int[ro]ducat[ur] p[er]sonalit[er] ad causa. s[et] accusatores & accusati
-                  eq[u]a audiaitt[ur] ratione. iuxta q[uo]d ordo exigit. Accusatores u[ero] &
+                  <ab>Nullus int[ro]ducat[ur] p[er]sonalit[er] ad causa. s[et] accusatores &amp; accusati
+                  eq[u]a audiaitt[ur] ratione. iuxta q[uo]d ordo exigit. Accusatores u[ero] &amp;
                   iudices n[on] ide[m] suit. s[et] p[er]se accusatores. p[er]se iudices. p[er]se
                   testes. p[er]se accusati un[us] q[ui]sq[ue] insuo ordine. Insc[ri]ptio u[ero]
                   se[m]p[er] fiat. ut calu[m]pniator talione[m] recipiat. q[uia]?? ante
-                  insc[ri]ptione[m] nemo debet iudicari [ue]l da[m]pnari. cu[m] & s[e]c[u]li leges
+                  insc[ri]ptione[m] nemo debet iudicari [ue]l da[m]pnari. cu[m] &amp; s[e]c[u]li leges
                   hec eade[m] retineant.</ab>
                 </div>
               </div>
