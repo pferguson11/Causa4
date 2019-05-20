@@ -1,5 +1,0 @@
-tei-div[type=textpart] { }
-tei-div[type=textpart][subtype=canon] { }
-tei-div[type=textpart][subtype=dictum] { font-style: italic; }
-tei-div[type=textpart][subtype=inscription] { font-style: italic; }
-tei-div[type=textpart][subtype=rubric] { color: red; font-style: italic; }
