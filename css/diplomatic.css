@@ -1,21 +1,5 @@
-@import url('fonts.css');
-tei-div[type=textpart] {
-  font-family: Junicode, Cardo, serif;
-  font-size: 175%;
-}
-tei-div[type=textpart][subtype=canon] {
-  font-family: Junicode, Cardo, serif;
-}
-tei-div[type=textpart][subtype=dictum] {
-  font-family: Junicode, Cardo, serif;
-  font-style: italic;
-}
-tei-div[type=textpart][subtype=inscription] {
-  font-family: Junicode, Cardo, serif;
-  font-style: italic;
-}
-tei-div[type=textpart][subtype=rubric] {
-  color: red;
-  font-family: Junicode, Cardo, serif;
-  font-style: italic;
-}
+tei-div[type=textpart] { }
+tei-div[type=textpart][subtype=canon] { }
+tei-div[type=textpart][subtype=dictum] { font-style: italic; }
+tei-div[type=textpart][subtype=inscription] { font-style: italic; }
+tei-div[type=textpart][subtype=rubric] { color: red; font-style: italic; }

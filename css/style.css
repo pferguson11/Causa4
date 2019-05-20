@@ -2,12 +2,12 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 tei-titleStmt > tei-author {
   display: block;
-  font-family: 'Open Sans', serif;
+  font-family: 'Open Sans', sans-serif;
   margin-bottom: 1em;
 }
 tei-titleStmt > tei-editor {
   display: block;
-  font-family: 'Open Sans', serif;
+  font-family: 'Open Sans', sans-serif;
   margin-bottom: 1em;
 }
 tei-TEI tei-head {
@@ -16,7 +16,7 @@ tei-TEI tei-head {
   font-weight: normal;
 }
 tei-div {
-  font-family: 'Open Sans', serif;
+  font-family: 'Open Sans', sans-serif;
 }
 tei-div > tei-head {
   font-size: 130%;
@@ -39,3 +39,8 @@ tei-titleStmt > tei-title {
   font-size: 175%;
   margin-bottom: 1em;
 }
+tei-div[type=textpart] { }
+tei-div[type=textpart][subtype=canon] { }
+tei-div[type=textpart][subtype=dictum] { font-style: italic; }
+tei-div[type=textpart][subtype=inscription] { font-style: italic; }
+tei-div[type=textpart][subtype=rubric] { color: red; font-style: italic; }
