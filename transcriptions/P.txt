@@ -49,7 +49,7 @@ atq[ue] testes. Ite[m] damas[us] p[a]p[a]. Q[ui]libet in ca[usa] dua[s]
 p[er]sona[s] gerere n[on] ualet. Nullus int[ro]ducat[ur] p[er]sonalit[er] ad
 [ca?]usam s[ed] accusatores, [et] accusati eq[ua] audiant[ur], r[ati]one, iuxta,
 q[uod] o[r]do exigit. Accusatores u[ero], [et] iudices n[on] ide[m] sint, s[ed]
-p[er] se iudices, p[er] se testes, p[er] se accusati un[us]q[ui][s]q[ue] in suo
+p[er] se iudices, p[er] re testes, p[er] se accusati un[us]q[ui][s]q[ue] in suo
 o[r]dine. Insc[ri]ptio se[m]p[er] fiat ut talione[m] calu[m]pniato[r] recipiat.
 Q[ui]a an[te] insc[ri]ptione[m] nemo debet iudicari u[e]l da[m]pnari, cu[m] [et]
 s[e]c[u]li leges hec eade[m] retineant.
@@ -68,9 +68,9 @@ causas p[ropri]au[er]it q[ui]b[us] occurrere n[on] potuisse manifestu[m] sit
 cause sue dicende, int[ra] alt[eru]m m[en]s[em] integ[ra]m ha[bea]t
 facultate[m]. Ver[um] ta[m]diu p[os]t m[en]s[em] s[e]c[un]d[u]m n[on]
 co[mmun]icet, donec p[ur]getur. Si au[tem] ad uniu[er]sale conciliu[m]
-anniu[er]saliu[m] occurrere uoluit, ut u[e]l ibi causa ei[us] t[er]minetur, ipse
+anniu[er]saliu[m] occurrere uolu[er]it, ut u[e]l ibi causa ei[us] t[er]minetur, ipse
 in se da[m]pnationis sent[e]ntia[m] dixisse iudicetur. Te[m]p[or]e sane q[uo]
-n[on] co[mmun]icat, nec in sua eccl[esi]a u[e]l parrocchia co[mmun]icet.
+n[on] co[mmun]icat, nec in sua eccl[esi]a u[e]l parrochia co[mmun]icet.
 Accusato[r] aut[em] ei[us] si nu[m]q[uam] dieb[us] cause dicend[e] defu[er]it
 subtrahens se, restituto in co[mmun]ione ep[iscop]o, remoueatur a co[mmun]ione
 acc[u]sato[r], ita t[ame]n, ut nec ipsi adimatur facultas cause p[er]ag[e]nde,
